@@ -1,0 +1,32 @@
+#menu{
+    padding: 30px;
+    float: left;
+    background-color: darkgoldenrod;
+    left:100px;
+    position: absolute;
+
+}
+#menu1{
+    padding: 30px;
+    float: left;
+    background-color: darkgoldenrod;
+    left:950px;
+    /*top:300px;*/
+    position: absolute;
+
+}
+#menu2{
+    padding: 30px;
+    float: left;
+    background-color: darkgoldenrod;
+    /*top:300px;*/
+    left:600px;
+    position: absolute;
+}
+table#table{
+    border:2pt solid black;
+
+}
+#table td{
+    border:2pt solid black;
+}
